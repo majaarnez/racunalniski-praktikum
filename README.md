@@ -1,4 +1,4 @@
-# Racunalniski praktikum
+# Računalniški praktikum
 
 * ctrl + S ...shrani
 * ctrl + A ...označi vse
