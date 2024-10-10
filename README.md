@@ -1,5 +1,5 @@
 # Racunalniski praktikum
 
-ctrl + S ...shrani
-ctrl + A ...označi vse
-ctrl + delete ...izbriši
+* ctrl + S ...shrani
+* ctrl + A ...označi vse
+* ctrl + delete ...izbriši
