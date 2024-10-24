@@ -56,3 +56,10 @@ margin-left: 2em;
     width: 100%;
     height: auto;
 }
+
+.slika p:last-child {font-size: 0.8em;
+    
+}
+
+.slika img {border-radius: 50%;}
+
